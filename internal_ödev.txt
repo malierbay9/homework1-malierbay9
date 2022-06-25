@@ -1,0 +1,6 @@
+    Java'da internal adında bir erişim belirleyicisi yoktur. Bütün erişim belirleyiciler şunlardır;
+        -Public
+        -Private
+        -Protected.
+    Bunların haricinde herhangi bir öğenin önüne bir erişim belirleyici koymadığımızda default olarak
+o öğenin erişimi ait olduğu paket ile sınırlandırılır.
